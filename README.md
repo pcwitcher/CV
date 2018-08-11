@@ -1,4 +1,4 @@
 # CV
 (training).
-[Link to website](https://pcwitcher.github.io/CV/cv.html)
+[Link to website](https://pcwitcher.github.io/CV/index.html)
 
